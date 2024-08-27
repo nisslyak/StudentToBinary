@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StudentToBinary": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\nisso\\Desktop\\students.dat\""
+    }
+  }
+}
